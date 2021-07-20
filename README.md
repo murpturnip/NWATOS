@@ -1,2 +1,2 @@
 # NWATOS
-sb3 os
+built on scratch
